@@ -78,9 +78,8 @@ Link With A Key
 
 
 Image  
-Cannot set height and width in markdown image syntax. For set height width img tag have to use.
 ![ultrawide two monitor](img.png)
-<img src="img.png" alt="ultrawide two monitor" width="300" title="ultrawide two monitor"/>
+
 
 Emoji 💙 💜 
 
