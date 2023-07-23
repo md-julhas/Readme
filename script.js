@@ -3,11 +3,6 @@ const nameFn = () => {
 }
 nameFn()
 
-
 // here is a comment
 
-const nameFn = (ss) => {
-  console.log("name Fn")
-}
-nameFn(ss)
-
+const name = 10000
