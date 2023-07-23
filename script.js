@@ -3,11 +3,4 @@ const nameFn = () => {
 }
 nameFn()
 
-// name list 
-
-
-
-// price list
-
-
-
+// lists
