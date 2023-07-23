@@ -14,3 +14,6 @@ const scriptjs = () => {
   console.log(name)
 }
 scriptjs()
+
+
+const fn = "sting"
