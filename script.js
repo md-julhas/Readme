@@ -6,3 +6,6 @@ nameFn()
 // here is a comment
 
 const name = 10000
+
+
+const font = arial
